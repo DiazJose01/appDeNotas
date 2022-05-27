@@ -1,0 +1,27 @@
+[
+    {
+        "TITULO": "Practicar JS",
+        "ESTADO": "Terminado"
+    },
+    {
+        "TITULO": "Ponerse al dia con playground",
+        "ESTADO": "Terminado"
+    },
+    {
+        "TITULO": "Asistir a clses",
+        "ESTADO": "En progreso"
+    },
+    {
+        "TITULO": "Buscarlo a mi hermano de la escuela",
+        "ESTADO": "En progreso"
+    },
+    {
+        "TITULO": "Sacar a pasear al perro",
+        "ESTADO": "Pendiente"
+    },
+    {
+        "TITULO": "Limpiar la casa",
+        "ESTADO": "pospuesta"
+    }
+  
+]
